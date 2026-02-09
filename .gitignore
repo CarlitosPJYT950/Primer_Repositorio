@@ -1,1 +1,7 @@
 .npmignore
+/node_modules/nbproject/private/
+/node_modules/build/
+/public/nbproject/private/
+/public/build/
+/src/nbproject/private/
+/src/build/
