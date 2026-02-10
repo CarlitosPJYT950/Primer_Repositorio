@@ -9,3 +9,5 @@
 /codigo/src/build/
 /node_modules/bin/nbproject/private/
 /node_modules/bin/build/
+/node_modules/test/nbproject/private/
+/node_modules/test/build/
