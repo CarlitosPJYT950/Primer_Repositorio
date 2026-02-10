@@ -7,3 +7,5 @@
 /src/build/
 /codigo/src/nbproject/private/
 /codigo/src/build/
+/node_modules/bin/nbproject/private/
+/node_modules/bin/build/
