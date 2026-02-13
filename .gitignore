@@ -13,3 +13,5 @@
 /node_modules/test/build/
 /node_modules/components/nbproject/private/
 /node_modules/components/build/
+/node_modules/docs/nbproject/private/
+/node_modules/docs/build/
