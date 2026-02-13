@@ -15,3 +15,5 @@
 /node_modules/components/build/
 /node_modules/docs/nbproject/private/
 /node_modules/docs/build/
+/node_modules/templates/nbproject/private/
+/node_modules/templates/build/
