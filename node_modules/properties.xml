@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Blog Personal</title>
+</head>
+<body>
+    <h1>Etiqueta para titulo principal</h1>
+    <p>La etiqueta h1 representa los titulos</p>
+    <h2>Etiqueta para titulo secundaro</h2>
+    <h3>Etiqueta para titulo terciario</h3>
+    <p>Este es un parrafo normal y <strong>"Un elemento con strong"</strong></p>
+    <p>Este es otro parrafo normal y <em>"Un elemento con emphasis"</em></p>
+    <h2>Citas</h2>
+    <blockquote>
+        Esta es una cita larga que se utiliza para resaltar un fragmento de texto importante o una referencia.
+    </blockquote>
+    <p><cite>Sistema Operativo</cite></p>
+    <br>
+    <h2>Codigo</h2>
+    <pre><code>
+    &lt;!DOCTYPE html&gt;
+    &lt;html lang="en"&gt;
+    &lt;head&gt;
+        &lt;meta charset="UTF-8"&gt;
+        &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+        &lt;title&gt;Document&lt;/title&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;h1&gt;Hola Mundo&lt;/h1&gt;
+    &lt;/body&gt;
+    &lt;/html&gt;
+    </code></pre>
+</body>
+</html>
