@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Bin",
+            "request": "launch",
+            "mainClass": "bin.Bin",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "Env$Env",
             "request": "launch",
             "mainClass": "Env$Env",
