@@ -23,3 +23,5 @@
 /node_modules/scripts/bin/build/
 /node_modules/repo/nbproject/private/
 /node_modules/repo/build/
+/node_modules/scripts/build/nbproject/private/
+/node_modules/scripts/build/build/
