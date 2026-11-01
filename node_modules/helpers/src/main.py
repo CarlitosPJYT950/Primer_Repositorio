@@ -1,0 +1,12 @@
+import sqlite3
+
+conexao = sqlite3.connect("coin.cbl")
+cursor = conexao.cursor()
+
+cursor.execute("CREATE TABLE IF NOT EXISTS usuarios (id INTEGER PRIMARY KEY, nome TEXT)")
+cursor.execute("INSERT INTO usuarios (nome) VALUES ('Pedro', 'Pablo', 'Jacinto', 'Jose')")
+
+conexao.commit()
+
+cursor.execute("SELECT * FROM usuarios")
+print(cursor.fetchall())
